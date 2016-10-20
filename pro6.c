@@ -10,4 +10,5 @@ if((i>=a&&i<=z)&&(i>=A&&i<=Z))
 printf("Alphabet character");
 else
 printf("Not an Alphabet character");
+return 0;
 }
